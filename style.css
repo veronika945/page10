@@ -91,3 +91,20 @@ body {
 .color {
   color: black;
 }
+#container .section .content .text {
+  font-size: 18px !important;
+}
+
+#container .section .content .text h1 {
+  font-size: 48px !important;
+  line-height: 1.2 !important;
+}
+
+#container .section .content .text h1 a {
+  font-size: inherit !important;
+}
+
+#container .section .content .text p {
+  font-size: 18px !important;
+  line-height: 1.5 !important;
+}
